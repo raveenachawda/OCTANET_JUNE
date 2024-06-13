@@ -1,2 +1,2 @@
  https://raveenachawda.github.io/OCTANET_JUNE/
- https://raveenachawda.github.io/OCTANET_JUNE/Octatask2
+ https://raveenachawda.github.io/OCTANET_JUNE/Octa task2
